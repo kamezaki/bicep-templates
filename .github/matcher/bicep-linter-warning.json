@@ -1,0 +1,17 @@
+{
+    "bicep_linter_error": [
+      {
+        "owner": "AP Communications",
+        "severity": "warning",
+        "pattern": [
+          {
+            "regexp": "(^W.*) (/.*)\\((\\d),(\\d)\\)\\s:\\s(.*)$",
+            "file": 2,
+            "line": 3,
+            "column": 4,
+            "message": 5
+          }
+        ]
+      }
+    ]
+  }
